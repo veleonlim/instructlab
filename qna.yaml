@@ -73,6 +73,27 @@ seed_examples:
           Why is communication important in a relationship?
         answer: |
           Open communication helps build trust, understanding, and strengthens the bond between partners.
+    - context: |
+      Food is a universal love language and a great way to make your girlfriend happy. Treat her to a delightful dining experience at some of Singapore's 
+      best romantic restaurants. Indulge in a candlelit dinner at Ce La Vi, offering stunning views from Marina Bay Sands. For a cozy, intimate setting, 
+      visit The White Rabbit, housed in a restored chapel with a European-inspired menu. Alternatively, surprise her with a picnic at East Coast Park 
+      or the Singapore Botanic Gardens, complete with her favorite snacks and desserts. 
+      
+      If she enjoys cooking, try preparing a meal together at home, experimenting with new recipes. Learning how to bake her favorite dessert or 
+      recreating a dish from a memorable date can show thoughtfulness and effort.
+    questions_and_answers:
+      - question: |
+          What are some romantic dining options in Singapore for a date?
+        answer: |
+          Ce La Vi at Marina Bay Sands and The White Rabbit are perfect romantic dining options.
+      - question: |
+          Where can you plan a picnic date with your girlfriend in Singapore?
+        answer: |
+          East Coast Park and the Singapore Botanic Gardens are beautiful picnic spots.
+      - question: |
+          How can you create a meaningful cooking experience at home with your girlfriend?
+        answer: |
+          You can prepare a meal together, bake her favorite dessert, or recreate a dish from a memorable date.'
 document_outline: |
   A guide to making your girlfriend happy, including gifting ideas, romantic outings, and everyday gestures of love.
 document:
