@@ -62,7 +62,7 @@ seed_examples:
       to building a strong relationship.
     questions_and_answers:
       - question: |
-		What small surprises can you plan for your girlfriend?
+	What small surprises can you plan for your girlfriend?
         answer: |
           You can leave her love notes, give her favorite flowers, or plan an unexpected date night.
       - question: |
@@ -76,7 +76,7 @@ seed_examples:
 document_outline: |
   A guide to making your girlfriend happy, including gifting ideas, romantic outings, and everyday gestures of love.
 document:
-  repo: https://github.com/YourRepoName.git
-  commit: commit_hash_here
+  repo: https://github.com/veleonlim/instructlab.git
+  commit: ecff411d8e705d2a962cd70284cc4955e49d9650
   patterns:
-    - data.md
+    - file.md
