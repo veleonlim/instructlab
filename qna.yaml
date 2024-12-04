@@ -77,9 +77,7 @@ seed_examples:
       Food is a universal love language and a great way to make your girlfriend happy. Treat her to a delightful dining experience at some of Singapore's 
       best romantic restaurants. Indulge in a candlelit dinner at Ce La Vi, offering stunning views from Marina Bay Sands. For a cozy, intimate setting, 
       visit The White Rabbit, housed in a restored chapel with a European-inspired menu. Alternatively, surprise her with a picnic at East Coast Park 
-      or the Singapore Botanic Gardens, complete with her favorite snacks and desserts. 
-      
-      If she enjoys cooking, try preparing a meal together at home, experimenting with new recipes. Learning how to bake her favorite dessert or 
+      or the Singapore Botanic Gardens, complete with her favorite snacks and desserts. If she enjoys cooking, try preparing a meal together at home, experimenting with new recipes. Learning how to bake her favorite dessert or 
       recreating a dish from a memorable date can show thoughtfulness and effort.
     questions_and_answers:
       - question: |
@@ -98,6 +96,6 @@ document_outline: |
   A guide to making your girlfriend happy, including gifting ideas, romantic outings, and everyday gestures of love.
 document:
   repo: https://github.com/veleonlim/instructlab.git
-  commit: ecff411d8e705d2a962cd70284cc4955e49d9650
+  commit: bec9dae4b13c8c9b0668f07f6000eef2e13020e6
   patterns:
-    - file.md
+    - data.md
