@@ -1,34 +1,27 @@
----
 version: 3
 domain: making_her_happy
 created_by: Your Name
 seed_examples:
-  - context: >
-      Making your girlfriend happy involves thoughtful gestures like gifting
-      her jewelry, which is always a cherished option. 
+  - context: |
+      Making your girlfriend happy involves thoughtful gestures like gifting her jewelry, which is always a cherished option. 
       Brands such as Pandora, Swarovski, Love and Co., and Tiffany & Co. offer a range of elegant options for rings, bracelets, 
       and earrings. Personalized gifts, such as customized jewelry or a photo book of shared memories, can also make her feel special. 
       Taking her to beautiful places like Marina Bay Sands SkyPark, Gardens by the Bay, or Sentosa Island in Singapore can create unforgettable memories.
     questions_and_answers:
       - question: |
           Which jewelry brands can make for great gifts for your girlfriend?
-        answer: >
-          Pandora, Swarovski, Love and Co., and Tiffany & Co. are excellent
-          choices for rings, bracelets, and earrings.
+        answer: |
+          Pandora, Swarovski, Love and Co., and Tiffany & Co. are excellent choices for rings, bracelets, and earrings.
       - question: |
           What personalized gifts can you give to your girlfriend?
-        answer: >
-          Customized jewelry, a photo book of shared memories, or personalized
-          accessories like wallets or phone cases are great options.
-      - question: >
-          What are some romantic places to visit with your girlfriend in
-          Singapore?
-        answer: >
-          Marina Bay Sands SkyPark, Gardens by the Bay, and Sentosa Island are
-          beautiful places to explore together.
-  - context: >
-      Jewelry prices vary by brand and type. Rings, earrings, and bracelets
-      from brands like Pandora, Swarovski, Tiffany, and Cartier range from $50 
+        answer: |
+          Customized jewelry, a photo book of shared memories, or personalized accessories like wallets or phone cases are great options.
+      - question: |
+          What are some romantic places to visit with your girlfriend in Singapore?
+        answer: |
+          Marina Bay Sands SkyPark, Gardens by the Bay, and Sentosa Island are beautiful places to explore together.
+  - context: |
+      Jewelry prices vary by brand and type. Rings, earrings, and bracelets from brands like Pandora, Swarovski, Tiffany, and Cartier range from $50 
       to $2,900 depending on the materials and craftsmanship. A Pandora ring costs $50, while a Tiffany bracelet is priced at $650. More luxurious brands, 
       such as Cartier and Harry Winston, offer pieces up to $2,000 or more, making them ideal for special occasions.
     questions_and_answers:
@@ -42,84 +35,48 @@ seed_examples:
           A Tiffany bracelet costs $650.
       - question: |
           Which brands offer jewelry priced above $2,000?
-        answer: >
-          Cartier and Harry Winston are among the brands offering jewelry priced
-          above $2,000.
-  - context: >
-      Romantic experiences can deepen your connection with your girlfriend.
-      Consider unique activities such as a dinner cruise along 
+        answer: |
+          Cartier and Harry Winston are among the brands offering jewelry priced above $2,000.
+  - context: |
+      Romantic experiences can deepen your connection with your girlfriend. Consider unique activities such as a dinner cruise along 
       Singapore's coastline, a scenic cable car ride to Sentosa, or a helicopter tour for a bird's-eye view of the city. For a fun day, 
       Adventure Cove Waterpark or the Night Safari offers exciting experiences. If you prefer a relaxed pace, enjoy a couple’s spa day, 
       take a cooking class together, or plan a cozy movie night with her favorite films and snacks.
     questions_and_answers:
       - question: |
           What are some romantic activities to do in Singapore?
-        answer: >
-          Romantic activities include a dinner cruise, cable car ride, or a
-          helicopter tour for scenic views of the city.
+        answer: |
+          Romantic activities include a dinner cruise, cable car ride, or a helicopter tour for scenic views of the city.
       - question: |
           Where can you go for a fun and adventurous day with your girlfriend?
-        answer: >
-          Adventure Cove Waterpark and the Night Safari are great options for a
-          fun day.
+        answer: |
+          Adventure Cove Waterpark and the Night Safari are great options for a fun day.
       - question: |
           What are some relaxing activities to do with your girlfriend?
-        answer: >
-          A couple's spa day, cooking class, or a cozy movie night at home are
-          wonderful relaxing options.
-  - context: >
-      Everyday gestures can make a significant impact in keeping your
-      relationship thriving. Compliment her often on her looks and
-      achievements, and show genuine interest in her dreams and hobbies. Small surprises, such as leaving love notes, giving her favorite flowers, 
+        answer: |
+          A couple's spa day, cooking class, or a cozy movie night at home are wonderful relaxing options.
+  - context: |
+      Everyday gestures can make a significant impact in keeping your relationship thriving. Compliment her often on her looks and achievements, 
+      and show genuine interest in her dreams and hobbies. Small surprises, such as leaving love notes, giving her favorite flowers, 
       or planning unexpected date nights, can bring joy and excitement. Open communication and actively listening to her feelings are also essential 
       to building a strong relationship.
     questions_and_answers:
       - question: |
-          What small surprises can you plan for your girlfriend?
-        answer: >
-          You can leave her love notes, give her favorite flowers, or plan an
-          unexpected date night.
+		What small surprises can you plan for your girlfriend?
+        answer: |
+          You can leave her love notes, give her favorite flowers, or plan an unexpected date night.
       - question: |
           How can you show support for your girlfriend's dreams and hobbies?
-        answer: >
-          Take a genuine interest in her goals and engage in activities she
-          enjoys.
+        answer: |
+          Take a genuine interest in her goals and engage in activities she enjoys.
       - question: |
           Why is communication important in a relationship?
-        answer: >
-          Open communication helps build trust, understanding, and strengthens the
-          bond between partners.
-  - context: >
-      Food is a universal love language and a great way to make your
-      girlfriend happy. Treat her to a delightful dining experience at some of
-      Singapore's 
-      best romantic restaurants. Indulge in a candlelit dinner at Ce La Vi, offering stunning views from Marina Bay Sands. For a cozy, intimate setting, 
-      visit The White Rabbit, housed in a restored chapel with a European-inspired menu. Alternatively, surprise her with a picnic at East Coast Park 
-      or the Singapore Botanic Gardens, complete with her favorite snacks and desserts.
-      If she enjoys cooking, try preparing a meal together at home, experimenting with new recipes. Learning how to bake her favorite dessert or 
-      recreating a dish from a memorable date can show thoughtfulness and effort.
-    questions_and_answers:
-      - question: |
-          What are some romantic dining options in Singapore for a date?
-        answer: >
-          Ce La Vi at Marina Bay Sands and The White Rabbit are perfect romantic
-          dining options.
-      - question: |
-          Where can you plan a picnic date with your girlfriend in Singapore?
-        answer: >
-          East Coast Park and the Singapore Botanic Gardens are beautiful picnic
-          spots.
-      - question: >
-          How can you create a meaningful cooking experience at home with your
-          girlfriend?
-        answer: >
-          You can prepare a meal together, bake her favorite dessert, or recreate
-          a dish from a memorable date.'
-document_outline: >
-  A guide to making your girlfriend happy, including gifting
-  ideas, romantic outings, and everyday gestures of love.
+        answer: |
+          Open communication helps build trust, understanding, and strengthens the bond between partners.
+document_outline: |
+  A guide to making your girlfriend happy, including gifting ideas, romantic outings, and everyday gestures of love.
 document:
-  repo: https://github.com/veleonlim/instructlab.git
-  commit: 6e89b7cb352cd76dc911cd0890aff92f3cb3ea65
+  repo: https://github.com/YourRepoName.git
+  commit: commit_hash_here
   patterns:
-    - file.md
+    - data.md
