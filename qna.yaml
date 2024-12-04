@@ -77,6 +77,6 @@ document_outline: |
   A guide to making your girlfriend happy, including gifting ideas, romantic outings, and everyday gestures of love.
 document:
   repo: https://github.com/veleonlim/instructlab.git
-  commit: 
+  commit: 6e89b7cb352cd76dc911cd0890aff92f3cb3ea65
   patterns:
     - file.md
